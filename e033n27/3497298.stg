@@ -1,0 +1,5 @@
+OBJECT_BASE 3497298.btg
+OBJECT HEGO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 33.666159 27.374179 4.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 33.670155 27.359566 16.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 33.669172 27.367144 10.8 0.00
